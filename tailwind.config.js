@@ -12,7 +12,10 @@ module.exports = {
         'secondary': '#23294b',
         'accent': '#9140fa',
         'text': '#C8CBDF',
-      }
+      },
+      backgroundImage: () => ({
+        'home': "url('./src/assets/home.png')",
+      }),
     },
   },
   plugins: [],

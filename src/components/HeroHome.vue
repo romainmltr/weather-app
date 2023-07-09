@@ -1,7 +1,7 @@
 <template>
   <div>
     <SearchBar @search="handleSearch"></SearchBar>
-    <div class="glass-container">
+    <div class="glass-container  ">
       <div v-if="weatherData" class="w-full flex-col items-start h-full weather-info">
         <h2 class="text-2xl font-semibold text-black mb-4">{{ weatherData.location.name }}</h2>
         <div class="weather-details  grid w-full grid-cols-1 sm:grid-cols-2 gap-4 items-start sm:w-full items-center mt-2">

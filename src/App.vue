@@ -3,3 +3,12 @@
     <router-view />
   </div>
 </template>
+
+<style>
+body {
+  @apply bg-home bg-no-repeat bg-cover bg-center;
+  background-image: url("@/assets/home.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+</style>

@@ -2,6 +2,8 @@
 
 Cette application météo vous permet de rechercher la météo actuelle et les prévisions à court terme pour une ville donnée.
 
+https://weather-app-sandy-alpha.vercel.app/
+
 ## Fonctionnalités ⛈️
 
 - Recherche de la météo actuelle par ville.

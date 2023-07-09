@@ -18,15 +18,7 @@ Cette application météo vous permet de rechercher la météo actuelle et les p
 
 ## Installation 
 
-1. Clonez ce référentiel sur votre machine locale :
 
-```bash
-git clone https://github.com/votre-utilisateur/weather-app.git
-```
-
-
-
-## Project setup
 ```
 yarn install
 ```
